@@ -1,0 +1,4 @@
+"pmos(MOS)" "pmos(MOS)"
+"nmos(MOS)" "nmos(MOS)"
+"SRAM_BIT_CELL layout SRAM" "SRAM_BIT_CELL schematic SRAM" "nmos(MOS)" "pmos(MOS)"
+Devices filtered from layout

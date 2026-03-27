@@ -1,0 +1,36 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:36 (sjfhw885) $
+sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
+run on cadence at Mon Mar 23 01:48:10 2026
+
+Schematic                       | Layout                       | Status
+-------------------------------------------------------------------------------
+SRAM_BIT_CELL schematic SRAM    | SRAM_BIT_CELL layout SRAM    | errors      *
+
+Mismatch between Schematic and Layout
+   1 cell with errors
+
+Schematic:
+  Library:SRAM
+  Cell   :SRAM_BIT_CELL
+  View   :schematic
+
+Layout:
+  Library:SRAM
+  Cell   :SRAM_BIT_CELL
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     1 cells have 2 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+

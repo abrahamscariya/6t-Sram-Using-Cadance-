@@ -1,0 +1,6 @@
+Schematic                       | Layout                       | Status
+-------------------------------------------------------------------------------
+SRAM_BIT_CELL schematic SRAM    | SRAM_BIT_CELL layout SRAM    | errors      *
+
+Mismatch between Schematic and Layout
+   1 cell with errors
